@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CarsScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraSwitchbuttonScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CoinScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CreditsButtonScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ExitScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HidebuttonScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\JumpbuttonScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MechanismButtonScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\OptionsButtonScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PausebuttonScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerScript.cs" Line="170" Column="103" />
+      <File FileName="Assets\Scripts\QuitButtonsScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RadarScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RestartButtonsScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\StartButtonScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
